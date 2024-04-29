@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aintkaran
-- 👀 I’m an audiophile with a professional diplloma in the art of photography persuing User Experience Design
+- 👀 I’m an audiophile with a professional diploma in the art of photography persuing User Experience Design
 - 🌱 I’m currently learning basics of CSS
 - 📫 You can reach out to me via [mail](mailto:aintkaran@icloud.com)
 
